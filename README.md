@@ -29,3 +29,7 @@ empty:
 DxLoadingHUD.sharedInstance.showEmptyAnimation();
 ```
 
+hide:
+```swift
+DxLoadingHUD.sharedInstance.hide(animated:true);
+```
