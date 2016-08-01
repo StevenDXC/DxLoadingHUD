@@ -52,7 +52,6 @@
 		667FC95D1D4F3175007E0154 = {
 			isa = PBXGroup;
 			children = (
-				667FC9951D4F3224007E0154 /* DxLoadingView */,
 				667FC9681D4F3175007E0154 /* DxLoadingHUD */,
 				667FC9671D4F3175007E0154 /* Products */,
 			);
@@ -69,6 +68,7 @@
 		667FC9681D4F3175007E0154 /* DxLoadingHUD */ = {
 			isa = PBXGroup;
 			children = (
+				667FC9951D4F3224007E0154 /* DxLoadingView */,
 				667FC9691D4F3175007E0154 /* AppDelegate.swift */,
 				667FC96B1D4F3175007E0154 /* ViewController.swift */,
 				667FC96D1D4F3175007E0154 /* Main.storyboard */,
@@ -90,8 +90,7 @@
 				667FC9991D4F3224007E0154 /* HUDContentView.swift */,
 				667FC99A1D4F3224007E0154 /* LoadingView.swift */,
 			);
-			name = DxLoadingView;
-			path = DxLoadingHUD/DxLoadingView;
+			path = DxLoadingView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -323,6 +322,7 @@
 				667FC97A1D4F3175007E0154 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
