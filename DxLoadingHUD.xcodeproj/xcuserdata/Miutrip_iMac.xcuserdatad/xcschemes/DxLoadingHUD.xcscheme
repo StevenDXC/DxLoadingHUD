@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "666B84DB1CFD2CAF0039E6C0"
+               BlueprintIdentifier = "667FC9651D4F3175007E0154"
                BuildableName = "DxLoadingHUD.app"
                BlueprintName = "DxLoadingHUD"
                ReferencedContainer = "container:DxLoadingHUD.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "666B84DB1CFD2CAF0039E6C0"
+            BlueprintIdentifier = "667FC9651D4F3175007E0154"
             BuildableName = "DxLoadingHUD.app"
             BlueprintName = "DxLoadingHUD"
             ReferencedContainer = "container:DxLoadingHUD.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "666B84DB1CFD2CAF0039E6C0"
+            BlueprintIdentifier = "667FC9651D4F3175007E0154"
             BuildableName = "DxLoadingHUD.app"
             BlueprintName = "DxLoadingHUD"
             ReferencedContainer = "container:DxLoadingHUD.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "666B84DB1CFD2CAF0039E6C0"
+            BlueprintIdentifier = "667FC9651D4F3175007E0154"
             BuildableName = "DxLoadingHUD.app"
             BlueprintName = "DxLoadingHUD"
             ReferencedContainer = "container:DxLoadingHUD.xcodeproj">
