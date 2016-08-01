@@ -7,35 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		667FC96A1D4F3175007E0154 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667FC9691D4F3175007E0154 /* AppDelegate.swift */; };
-		667FC96C1D4F3175007E0154 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667FC96B1D4F3175007E0154 /* ViewController.swift */; };
-		667FC96F1D4F3175007E0154 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 667FC96D1D4F3175007E0154 /* Main.storyboard */; };
-		667FC9711D4F3175007E0154 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 667FC9701D4F3175007E0154 /* Assets.xcassets */; };
-		667FC9741D4F3175007E0154 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 667FC9721D4F3175007E0154 /* LaunchScreen.storyboard */; };
-		667FC99B1D4F3224007E0154 /* ArcToCircleLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667FC9961D4F3224007E0154 /* ArcToCircleLayer.swift */; };
-		667FC99C1D4F3224007E0154 /* BlurFrameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667FC9971D4F3224007E0154 /* BlurFrameView.swift */; };
-		667FC99D1D4F3224007E0154 /* DxLoadingHUD.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667FC9981D4F3224007E0154 /* DxLoadingHUD.swift */; };
-		667FC99E1D4F3224007E0154 /* HUDContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667FC9991D4F3224007E0154 /* HUDContentView.swift */; };
-		667FC99F1D4F3224007E0154 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667FC99A1D4F3224007E0154 /* LoadingView.swift */; };
-		667FC9A21D4F3290007E0154 /* Window.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667FC9A01D4F3290007E0154 /* Window.swift */; };
-		667FC9A31D4F3290007E0154 /* WindowRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667FC9A11D4F3290007E0154 /* WindowRootViewController.swift */; };
+		667FC9B51D4F33FF007E0154 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667FC9A51D4F33FF007E0154 /* AppDelegate.swift */; };
+		667FC9B61D4F33FF007E0154 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 667FC9A61D4F33FF007E0154 /* Assets.xcassets */; };
+		667FC9B71D4F33FF007E0154 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 667FC9A71D4F33FF007E0154 /* LaunchScreen.storyboard */; };
+		667FC9B81D4F33FF007E0154 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 667FC9A91D4F33FF007E0154 /* Main.storyboard */; };
+		667FC9B91D4F33FF007E0154 /* ArcToCircleLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667FC9AC1D4F33FF007E0154 /* ArcToCircleLayer.swift */; };
+		667FC9BA1D4F33FF007E0154 /* BlurFrameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667FC9AD1D4F33FF007E0154 /* BlurFrameView.swift */; };
+		667FC9BB1D4F33FF007E0154 /* DxLoadingHUD.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667FC9AE1D4F33FF007E0154 /* DxLoadingHUD.swift */; };
+		667FC9BC1D4F33FF007E0154 /* HUDContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667FC9AF1D4F33FF007E0154 /* HUDContentView.swift */; };
+		667FC9BD1D4F33FF007E0154 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667FC9B01D4F33FF007E0154 /* LoadingView.swift */; };
+		667FC9BE1D4F33FF007E0154 /* Window.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667FC9B11D4F33FF007E0154 /* Window.swift */; };
+		667FC9BF1D4F33FF007E0154 /* WindowRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667FC9B21D4F33FF007E0154 /* WindowRootViewController.swift */; };
+		667FC9C01D4F33FF007E0154 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 667FC9B31D4F33FF007E0154 /* Info.plist */; };
+		667FC9C11D4F33FF007E0154 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667FC9B41D4F33FF007E0154 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		667FC9661D4F3175007E0154 /* DxLoadingHUD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DxLoadingHUD.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		667FC9691D4F3175007E0154 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		667FC96B1D4F3175007E0154 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		667FC96E1D4F3175007E0154 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		667FC9701D4F3175007E0154 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		667FC9731D4F3175007E0154 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		667FC9751D4F3175007E0154 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		667FC9961D4F3224007E0154 /* ArcToCircleLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArcToCircleLayer.swift; sourceTree = "<group>"; };
-		667FC9971D4F3224007E0154 /* BlurFrameView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlurFrameView.swift; sourceTree = "<group>"; };
-		667FC9981D4F3224007E0154 /* DxLoadingHUD.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DxLoadingHUD.swift; sourceTree = "<group>"; };
-		667FC9991D4F3224007E0154 /* HUDContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HUDContentView.swift; sourceTree = "<group>"; };
-		667FC99A1D4F3224007E0154 /* LoadingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
-		667FC9A01D4F3290007E0154 /* Window.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Window.swift; sourceTree = "<group>"; };
-		667FC9A11D4F3290007E0154 /* WindowRootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WindowRootViewController.swift; sourceTree = "<group>"; };
+		667FC9A51D4F33FF007E0154 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		667FC9A61D4F33FF007E0154 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		667FC9A81D4F33FF007E0154 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		667FC9AA1D4F33FF007E0154 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		667FC9AC1D4F33FF007E0154 /* ArcToCircleLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArcToCircleLayer.swift; sourceTree = "<group>"; };
+		667FC9AD1D4F33FF007E0154 /* BlurFrameView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlurFrameView.swift; sourceTree = "<group>"; };
+		667FC9AE1D4F33FF007E0154 /* DxLoadingHUD.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DxLoadingHUD.swift; sourceTree = "<group>"; };
+		667FC9AF1D4F33FF007E0154 /* HUDContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HUDContentView.swift; sourceTree = "<group>"; };
+		667FC9B01D4F33FF007E0154 /* LoadingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
+		667FC9B11D4F33FF007E0154 /* Window.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Window.swift; sourceTree = "<group>"; };
+		667FC9B21D4F33FF007E0154 /* WindowRootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WindowRootViewController.swift; sourceTree = "<group>"; };
+		667FC9B31D4F33FF007E0154 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		667FC9B41D4F33FF007E0154 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +53,7 @@
 		667FC95D1D4F3175007E0154 = {
 			isa = PBXGroup;
 			children = (
-				667FC9681D4F3175007E0154 /* DxLoadingHUD */,
+				667FC9A41D4F33FF007E0154 /* DxLoadingHUDDemo */,
 				667FC9671D4F3175007E0154 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -65,30 +66,30 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		667FC9681D4F3175007E0154 /* DxLoadingHUD */ = {
+		667FC9A41D4F33FF007E0154 /* DxLoadingHUDDemo */ = {
 			isa = PBXGroup;
 			children = (
-				667FC9951D4F3224007E0154 /* DxLoadingView */,
-				667FC9691D4F3175007E0154 /* AppDelegate.swift */,
-				667FC96B1D4F3175007E0154 /* ViewController.swift */,
-				667FC96D1D4F3175007E0154 /* Main.storyboard */,
-				667FC9701D4F3175007E0154 /* Assets.xcassets */,
-				667FC9721D4F3175007E0154 /* LaunchScreen.storyboard */,
-				667FC9751D4F3175007E0154 /* Info.plist */,
+				667FC9A51D4F33FF007E0154 /* AppDelegate.swift */,
+				667FC9A61D4F33FF007E0154 /* Assets.xcassets */,
+				667FC9A71D4F33FF007E0154 /* LaunchScreen.storyboard */,
+				667FC9A91D4F33FF007E0154 /* Main.storyboard */,
+				667FC9AB1D4F33FF007E0154 /* DxLoadingView */,
+				667FC9B31D4F33FF007E0154 /* Info.plist */,
+				667FC9B41D4F33FF007E0154 /* ViewController.swift */,
 			);
-			path = DxLoadingHUD;
+			path = DxLoadingHUDDemo;
 			sourceTree = "<group>";
 		};
-		667FC9951D4F3224007E0154 /* DxLoadingView */ = {
+		667FC9AB1D4F33FF007E0154 /* DxLoadingView */ = {
 			isa = PBXGroup;
 			children = (
-				667FC9A01D4F3290007E0154 /* Window.swift */,
-				667FC9A11D4F3290007E0154 /* WindowRootViewController.swift */,
-				667FC9961D4F3224007E0154 /* ArcToCircleLayer.swift */,
-				667FC9971D4F3224007E0154 /* BlurFrameView.swift */,
-				667FC9981D4F3224007E0154 /* DxLoadingHUD.swift */,
-				667FC9991D4F3224007E0154 /* HUDContentView.swift */,
-				667FC99A1D4F3224007E0154 /* LoadingView.swift */,
+				667FC9AC1D4F33FF007E0154 /* ArcToCircleLayer.swift */,
+				667FC9AD1D4F33FF007E0154 /* BlurFrameView.swift */,
+				667FC9AE1D4F33FF007E0154 /* DxLoadingHUD.swift */,
+				667FC9AF1D4F33FF007E0154 /* HUDContentView.swift */,
+				667FC9B01D4F33FF007E0154 /* LoadingView.swift */,
+				667FC9B11D4F33FF007E0154 /* Window.swift */,
+				667FC9B21D4F33FF007E0154 /* WindowRootViewController.swift */,
 			);
 			path = DxLoadingView;
 			sourceTree = "<group>";
@@ -151,9 +152,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				667FC9741D4F3175007E0154 /* LaunchScreen.storyboard in Resources */,
-				667FC9711D4F3175007E0154 /* Assets.xcassets in Resources */,
-				667FC96F1D4F3175007E0154 /* Main.storyboard in Resources */,
+				667FC9B61D4F33FF007E0154 /* Assets.xcassets in Resources */,
+				667FC9B81D4F33FF007E0154 /* Main.storyboard in Resources */,
+				667FC9B71D4F33FF007E0154 /* LaunchScreen.storyboard in Resources */,
+				667FC9C01D4F33FF007E0154 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -164,35 +166,35 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				667FC99E1D4F3224007E0154 /* HUDContentView.swift in Sources */,
-				667FC96C1D4F3175007E0154 /* ViewController.swift in Sources */,
-				667FC99C1D4F3224007E0154 /* BlurFrameView.swift in Sources */,
-				667FC99B1D4F3224007E0154 /* ArcToCircleLayer.swift in Sources */,
-				667FC96A1D4F3175007E0154 /* AppDelegate.swift in Sources */,
-				667FC99F1D4F3224007E0154 /* LoadingView.swift in Sources */,
-				667FC99D1D4F3224007E0154 /* DxLoadingHUD.swift in Sources */,
-				667FC9A21D4F3290007E0154 /* Window.swift in Sources */,
-				667FC9A31D4F3290007E0154 /* WindowRootViewController.swift in Sources */,
+				667FC9BC1D4F33FF007E0154 /* HUDContentView.swift in Sources */,
+				667FC9BF1D4F33FF007E0154 /* WindowRootViewController.swift in Sources */,
+				667FC9B91D4F33FF007E0154 /* ArcToCircleLayer.swift in Sources */,
+				667FC9BD1D4F33FF007E0154 /* LoadingView.swift in Sources */,
+				667FC9BB1D4F33FF007E0154 /* DxLoadingHUD.swift in Sources */,
+				667FC9C11D4F33FF007E0154 /* ViewController.swift in Sources */,
+				667FC9BA1D4F33FF007E0154 /* BlurFrameView.swift in Sources */,
+				667FC9B51D4F33FF007E0154 /* AppDelegate.swift in Sources */,
+				667FC9BE1D4F33FF007E0154 /* Window.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		667FC96D1D4F3175007E0154 /* Main.storyboard */ = {
+		667FC9A71D4F33FF007E0154 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				667FC96E1D4F3175007E0154 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		667FC9721D4F3175007E0154 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				667FC9731D4F3175007E0154 /* Base */,
+				667FC9A81D4F33FF007E0154 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		667FC9A91D4F33FF007E0154 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				667FC9AA1D4F33FF007E0154 /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -285,7 +287,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = DxLoadingHUD/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/DxLoadingHUDDemo/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dxc.DxLoadingHUD;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -296,7 +299,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = DxLoadingHUD/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/DxLoadingHUDDemo/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dxc.DxLoadingHUD;
 				PRODUCT_NAME = "$(TARGET_NAME)";
